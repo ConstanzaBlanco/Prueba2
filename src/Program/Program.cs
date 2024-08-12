@@ -5,8 +5,8 @@ Console.WriteLine(Division.Divide(18, 2));
 // Esta clase implementa la operación resta
 public class Substraction
 {
-    public static int Substract(int a, int b)
+    public static int Add(int a, int b)
     {
-        return a - b;
+        return 0; // Cambio incorrecto
     }
 }
