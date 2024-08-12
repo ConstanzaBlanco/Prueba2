@@ -1,0 +1,5 @@
+C:\Repos\Prueba2\src\Program\obj\Debug\net8.0\Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\Prueba2\src\Program\obj\Debug\net8.0\Program.AssemblyInfoInputs.cache
+C:\Repos\Prueba2\src\Program\obj\Debug\net8.0\Program.AssemblyInfo.cs
+C:\Repos\Prueba2\src\Program\obj\Debug\net8.0\Program.csproj.CoreCompileInputs.cache
+C:\Repos\Prueba2\src\Program\obj\Debug\net8.0\Program.sourcelink.json
