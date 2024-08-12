@@ -7,6 +7,6 @@ public class Multiplication
 {
     public static int Multiply(int a, int b)
     {
-        return 0;//cambio incorrecto
+        return a * b;
     }
 }
